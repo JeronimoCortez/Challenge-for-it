@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Challenge Academia For IT
 
-## Getting Started
+Decidí realizar la prueba en Next.js porque me parece más eficiente tener el backend y el frontend en un mismo proyecto. Además, utilicé varias librerías para mejorar la experiencia tanto del usuario como del desarrollador.
 
-First, run the development server:
+## Tecnologías y Librerías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js**: Framework principal para frontend y backend.
+- **Fuse.js**: Para la funcionalidad de búsqueda.
+- **SweetAlert**: Para mostrar alertas al usuario al crear, editar o eliminar tareas.
+- **Zustand**: Para el manejo del estado global de la aplicación.
+- **Formik & Yup**: Para el envío y validación de formularios.
+- **UUID**: Para la creación de IDs únicos.
+- **Iconify**: Para la importación de iconos.
+- **TailwindCSS**: Para los estilos de la página.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pasos para probar el proyecto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Clonar el repositorio:**
+   git clone https://github.com/JeronimoCortez/Challenge-for-it.git
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. **Instalar dependencias:**
+   npm install
 
-## Learn More
+3. **Levantar el servidor de desarrollo:**
+   npm run dev
 
-To learn more about Next.js, take a look at the following resources:
+4. **Abrir en el navegador:**  
+   Ingresar a [http://localhost:3000](http://localhost:3000) para ver la aplicación funcionando.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+A continuación, se adjuntan imágenes del proyecto en funcionamiento.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Pagina principal
+(image-1.png)
 
-## Deploy on Vercel
+Vemos info de una tarea
+(image-2.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Editamos una tarea
+(image-3.png)
+(image-4.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Creamos una tarea
+(image-5.png)
+(image-6.png)
+(image-7.png)
+
+Filtro solo tareas completadas
+(image-8.png)
+
+Filtro solo tareas pendientes
+(image-9.png)
+
+Eliminamos una tarea
+(image-10.png)
+(image-11.png)
+(image-12.png)
+
+Buscamos una tarea
+(image-13.png)
