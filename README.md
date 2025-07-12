@@ -29,31 +29,31 @@ Decidí realizar la prueba en Next.js porque me parece más eficiente tener el b
 
 A continuación, se adjuntan imágenes del proyecto en funcionamiento.
 
-Pagina principal
-(image-1.png)
+**Página principal**  
+![Página principal](image-1.png)
 
-Vemos info de una tarea
-(image-2.png)
+**Vemos info de una tarea**  
+![Info tarea](image-2.png)
 
-Editamos una tarea
-(image-3.png)
-(image-4.png)
+**Editamos una tarea**  
+![Editar tarea 1](image-3.png)
+![Editar tarea 2](image-4.png)
 
-Creamos una tarea
-(image-5.png)
-(image-6.png)
-(image-7.png)
+**Creamos una tarea**  
+![Crear tarea 1](image-5.png)
+![Crear tarea 2](image-6.png)
+![Crear tarea 3](image-7.png)
 
-Filtro solo tareas completadas
-(image-8.png)
+**Filtro solo tareas completadas**  
+![Completadas](image-8.png)
 
-Filtro solo tareas pendientes
-(image-9.png)
+**Filtro solo tareas pendientes**  
+![Pendientes](image-9.png)
 
-Eliminamos una tarea
-(image-10.png)
-(image-11.png)
-(image-12.png)
+**Eliminamos una tarea**  
+![Eliminar tarea 1](image-10.png)
+![Eliminar tarea 2](image-11.png)
+![Eliminar tarea 3](image-12.png)
 
-Buscamos una tarea
-(image-13.png)
+**Buscamos una tarea**  
+![Buscar tarea](image-13.png)
